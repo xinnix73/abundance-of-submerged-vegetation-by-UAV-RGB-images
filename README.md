@@ -13,10 +13,13 @@ Code include
 9. flcs and GMM
 
 ![image](https://github.com/xinnix73/abundance-of-submerged-vegetation-by-UAV-RGB-images/assets/70842125/3dbf33b0-cfaf-4b1c-9af0-2ee9f43eb7a9)
+
 UAV
 ![image](https://github.com/xinnix73/abundance-of-submerged-vegetation-by-UAV-RGB-images/assets/70842125/076a785a-3689-4d51-b0ca-40e9f953faad)
+
 abundance Upright by flcs and GMM
 ![image](https://github.com/xinnix73/abundance-of-submerged-vegetation-by-UAV-RGB-images/assets/70842125/7731092b-b8ef-43d7-9227-6c1c0b56f98f)
+
 abundance Benthic by flcs and GMM
 
 
